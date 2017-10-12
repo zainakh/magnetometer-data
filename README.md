@@ -3,4 +3,4 @@ Meant to collect limb data from small magnets attached to pup that are placed ab
 
 Circuit Schematic:
 
-![Capture](https://raw.github.com/zkhan4123/magnetometer-data/master/.)
+![Capture](Capture.PNG)
