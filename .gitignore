@@ -32,4 +32,7 @@ wheels/
 *.spec
 
 # Ignore picture of schematic
-.png
+.PNG
+
+# Ignore papers
+.pdf
